@@ -1,0 +1,7 @@
+/Users/knealy/XProjects/DataSender/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/knealy/XProjects/DataSender/UITests/bin/Debug/DataSender.UITests.dll.mdb
+/Users/knealy/XProjects/DataSender/UITests/bin/Debug/DataSender.UITests.dll
+/Users/knealy/XProjects/DataSender/UITests/obj/Debug/DataSender.UITests.dll
+/Users/knealy/XProjects/DataSender/UITests/obj/Debug/DataSender.UITests.dll.mdb
+/Users/knealy/XProjects/DataSender/UITests/bin/Debug/Xamarin.UITest.dll
+/Users/knealy/XProjects/DataSender/UITests/bin/Debug/nunit.framework.dll
