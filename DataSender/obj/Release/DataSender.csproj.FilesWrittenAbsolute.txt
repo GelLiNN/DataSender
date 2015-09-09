@@ -1,0 +1,5 @@
+/Users/knealy/XProjects/DataSender/DataSender/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/knealy/XProjects/DataSender/DataSender/bin/Release/DataSender.dll.mdb
+/Users/knealy/XProjects/DataSender/DataSender/bin/Release/DataSender.dll
+/Users/knealy/XProjects/DataSender/DataSender/obj/Release/DataSender.dll
+/Users/knealy/XProjects/DataSender/DataSender/obj/Release/DataSender.dll.mdb

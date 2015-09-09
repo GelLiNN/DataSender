@@ -1,0 +1,4 @@
+DataSender.Droid.MainActivity, DataSender.Droid;md541d599c7df98031792ed7cce75c043b1.MainActivity
+DataSender.Droid.MainActivity, DataSender.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md541d599c7df98031792ed7cce75c043b1.MainActivity
+DataSender.Droid.MainActivity;md541d599c7df98031792ed7cce75c043b1.MainActivity
+datasender.droid.MainActivity;md541d599c7df98031792ed7cce75c043b1.MainActivity

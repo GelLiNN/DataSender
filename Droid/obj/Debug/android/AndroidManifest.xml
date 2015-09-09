@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.splunk.datasender">
-  <uses-sdk android:minSdkVersion="15" />
-  <application android:label="DataSender" android:name="mono.android.app.Application" android:debuggable="true">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="22" />
+  <application android:label="DataSender" android:icon="@drawable/icon" android:debuggable="true" android:name="mono.android.app.Application">
     <activity android:icon="@drawable/icon" android:label="DataSender.Droid" android:name="md541d599c7df98031792ed7cce75c043b1.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

@@ -1,1 +1,27 @@
-﻿<Properties StartupItem="iOS/DataSender.iOS.csproj" />
+﻿<Properties StartupItem="iOS/DataSender.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="DataSender/MyClass.cs" Line="11" Column="2" />
+      <File FileName="Droid/MainActivity.cs" Line="24" Column="51" />
+      <File FileName="iOS/ViewController.cs" Line="32" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataSender" expanded="True">
+            <Node name="DataSender.Droid" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="DataSender.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/DataSender.Droid.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/System.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/System.Xml.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/Mono.Android.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/SplunkClient.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/System.Core.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/DataSender.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/mscorlib.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/System.Reflection.Emit.ILGeneration.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/System.Reflection.Emit.Lightweight.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/System.Reflection.Emit.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/System.Net.Http.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/System.Runtime.Serialization.dll
+/Users/knealy/XProjects/DataSender/Droid/obj/Release/android/assets/System.ServiceModel.dll
